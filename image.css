@@ -1,0 +1,15 @@
+#style{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#style1{
+    display: flex;
+    justify-content: center;
+
+}
+#boite{
+    display: flex;
+    justify-content:space-around;
+}
